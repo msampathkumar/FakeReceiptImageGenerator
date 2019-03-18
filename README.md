@@ -1,4 +1,5 @@
-# PyReceiptGen
+# PyReceiptGenerator
+
 A Simple Receipt Generator using PIL & Python.
 
 Goal of this repository is provide a basic but extensible template framework for generating Image Receipt of your idea. 
