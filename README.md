@@ -1,4 +1,4 @@
-# PyReceiptGenerator
+# FakeReceiptImageGenerator
 
 A Simple Receipt Generator using PIL & Python.
 
@@ -14,6 +14,11 @@ Note: We are using Python 3.6 as our development language.
 # To Run
 
 `python3 receipt_generator.py`
+
+# Road Map
+
+For details please check - https://github.com/msampathkumar/FakeReceiptImageGenerator/projects/1
+
 
 # Default Sample Output
 Following is the sample 
